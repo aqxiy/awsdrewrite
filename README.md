@@ -1,5 +1,3 @@
 # awsdrewrite
 
-A keyboard rebinding script where capslock/RShift + awsd code for arrow keys and right shift + capslock toggles on/off capslock. 
-
-AV scan: https://www.virustotal.com/gui/url/15d0798fa0f6a09d618aee0c5c86b08ca85a1167e41428cfedc120e0c8abc113?nocache=1
+Idea for a keyboard binding remapping to where awsd + caps/right-shift code for arrow keys and caps/right-shift + 2/3 toggle caps on/off. Potentially with an off switch of +, within 2 seconds \. 
